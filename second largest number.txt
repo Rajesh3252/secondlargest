@@ -1,0 +1,7 @@
+step 1: Start
+step 2: Get 3 inputs from the user (Eg: a,b,c).
+step 3: Check if (a>b and a<c) or (a<b and a>c),then print (a).
+step 4: Or else Check if (b>a and b<c) or (b<a and b>c),then print (b).
+step 5: Else print(c).
+step 6: End
+//changed
